@@ -1,1 +1,1 @@
-web: gunicorn deploy:pu-adp-result-scraper
+web: gunicorn app:app
